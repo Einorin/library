@@ -75,3 +75,20 @@ input{
     font-weight: 600;
     margin-left: 12px
 }
+
+button{
+    border-radius: 24px;
+    font-weight: 600;
+    padding: 8px;
+    background-color: #7e22ce;
+}
+
+th:last-child,
+th:nth-child(4){
+    width: 90px;
+}
+
+th,td, table{
+    border-left: white 1px solid;
+    border-right: white 1px solid;
+}
