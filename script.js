@@ -62,12 +62,3 @@ class Book{
     tableBody.appendChild(row);
   }
 }
-
-
-
-
-
-
-
-
-  
